@@ -1,0 +1,248 @@
+absl-py==0.11.0
+adversarial-robustness-toolbox==1.5.0
+alabaster==0.7.12
+apex==0.1
+appdirs==1.4.4
+argon2-cffi==20.1.0
+ascii-graph==1.5.1
+astunparse==1.6.3
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+audioread==2.1.9
+Babel==2.9.0
+backcall==0.2.0
+beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
+bleach==3.2.1
+blis==0.4.1
+boto3==1.16.25
+botocore==1.19.25
+brotlipy==0.7.0
+cachetools==4.2.0
+catalogue==1.0.0
+certifi==2020.11.8
+cffi @ file:///tmp/build/80754af9/cffi_1605538068321/work
+chardet @ file:///tmp/build/80754af9/chardet_1605303185383/work
+click==7.1.2
+cma==3.0.3
+codecov==2.1.10
+conda==4.9.2
+conda-build==3.20.5
+conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1603018141399/work
+coverage==5.3
+cryptography @ file:///tmp/build/80754af9/cryptography_1605544487601/work
+cxxfilt==0.2.2
+cycler==0.10.0
+cymem @ file:///tmp/build/80754af9/cymem_1605062280080/work
+Cython==0.28.4
+DataProperty==0.50.0
+decorator==4.4.2
+defusedxml==0.6.0
+dlib==19.23.0
+DLLogger @ git+git://github.com/NVIDIA/dllogger.git@26a0f8f1958de2c0c460925ff6102a4d2486d6cc
+docutils==0.16
+entrypoints==0.3
+faiss-gpu==1.7.1.post3
+ffmpeg-python==0.2.0
+filelock==3.0.12
+flake8==3.7.9
+Flask==1.1.2
+flatbuffers==1.12
+future==0.18.2
+gast==0.3.3
+gdown==4.3.1
+glob2==0.7
+google-auth==1.24.0
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+graphsurgeon @ file:///workspace/TensorRT-7.2.2.1/graphsurgeon/graphsurgeon-0.4.5-py2.py3-none-any.whl
+grpcio==1.32.0
+h5py==2.10.0
+html2text==2020.1.16
+hypothesis==4.50.8
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+imageio==2.9.0
+imageio-ffmpeg==0.4.3
+imagesize==1.2.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+inflect==5.0.2
+iniconfig==1.1.1
+install==1.3.4
+ipdb==0.13.4
+ipykernel==5.3.4
+ipython @ file:///tmp/build/80754af9/ipython_1604101197014/work
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi @ file:///tmp/build/80754af9/jedi_1598371611696/work
+Jinja2==2.11.2
+jmespath==0.10.0
+joblib==0.17.0
+json5==0.9.5
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1594303806266/work
+jupyter-client==6.1.7
+jupyter-core==4.7.0
+jupyter-tensorboard==0.2.0
+jupyterlab==1.2.14
+jupyterlab-pygments==0.1.2
+jupyterlab-server==1.2.0
+jupytext==1.7.1
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+kornia==0.6.2
+libarchive-c==2.9
+librosa==0.8.0
+llvmlite==0.34.0
+lmdb==1.0.0
+Markdown==3.3.3
+markdown-it-py==0.5.6
+MarkupSafe==1.1.1
+maskrcnn-benchmark @ file:///opt/pytorch/examples/maskrcnn/pytorch
+matplotlib==3.3.3
+mbstrdecoder==1.0.0
+mccabe==0.6.1
+mistune==0.8.4
+mlperf-compliance==0.0.10
+mock==4.0.2
+msgfy==0.1.0
+murmurhash==1.0.2
+mypy==0.790
+mypy-extensions==0.4.3
+nbclient==0.5.1
+nbconvert==6.0.7
+nbformat==5.0.8
+nest-asyncio==1.4.3
+networkx==2.0
+ninja==1.10.2.3
+nltk==3.5
+notebook==6.1.5
+numba @ file:///tmp/build/80754af9/numba_1600100669015/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603479643886/work
+nvidia-dali-cuda110==0.28.0
+nvidia-pyprof @ git+https://github.com/NVIDIA/PyProf@37afcf2e9e38f645258e56697f8a39c7796c1451
+nvidia-tensorboard @ file:///nvidia/opt/tensorboard_install/nvidia_tensorboard-1.15.0%2Bnv20.12-py3-none-any.whl
+nvidia-tensorboard-plugin-dlprof @ file:///nvidia/opt/tensorboard_install/nvidia_tensorboard_plugin_dlprof-0.10-py3-none-any.whl
+oauthlib==3.1.0
+onnx @ file:///opt/pytorch/pytorch/third_party/onnx
+onnxruntime==1.5.2
+opencv-python==4.4.0.46
+opt-einsum==3.3.0
+packaging==20.4
+pandas==1.1.4
+pandocfilters==1.4.3
+parso==0.7.0
+pathvalidate==2.3.0
+patsy==0.5.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare==0.7.5
+Pillow==8.0.1
+Pillow-SIMD @ file:///tmp/pillow-simd
+pkginfo==1.6.1
+plac @ file:///tmp/build/80754af9/plac_1594261900949/work
+pluggy==0.13.1
+polygraphy==0.20.13
+pooch==1.2.0
+preshed==3.0.2
+progressbar==2.5
+prometheus-client==0.9.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.14.0
+psutil @ file:///tmp/build/80754af9/psutil_1598370257551/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1605560620615/work/dist/ptyprocess-0.6.0-py2.py3-none-any.whl
+py==1.9.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybind11==2.6.1
+pycocotools @ git+https://github.com/nvidia/cocoapi.git@6ac4a93058202603f36fd1ce47228e7d81119e5a#subdirectory=PythonAPI
+pycodestyle==2.5.0
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydot==1.4.1
+pydub==0.24.1
+pyflakes==2.1.1
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+pynvml==8.0.4
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyparsing==2.4.7
+pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141720057/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+pyspng==0.1.0
+pytablewriter==0.47.0
+pytest==6.1.2
+pytest-cov==2.10.1
+pytest-pythonpath==0.7.3
+python-dateutil==2.8.1
+python-hostlist==1.21
+python-nvd3==0.15.0
+python-slugify==4.0.1
+pytorch-metric-learning==1.0.0
+pytorch-transformers==1.1.0
+pytz==2020.1
+PyWavelets==1.1.1
+PyYAML==5.3.1
+pyzmq==20.0.0
+regex==2020.11.13
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-oauthlib==1.3.0
+resampy==0.2.2
+revtok @ git+git://github.com/jekbradbury/revtok.git@f1998b72a941d1e5f9578a66dc1c20b01913caab
+rsa==4.7
+ruamel-yaml==0.15.87
+s3transfer==0.3.3
+sacrebleu==1.2.10
+sacremoses==0.0.35
+scikit-image==0.15.0
+scikit-learn==0.23.2
+scipy @ file:///tmp/build/80754af9/scipy_1597686650319/work
+Send2Trash==1.5.0
+sentencepiece==0.1.94
+six @ file:///tmp/build/80754af9/six_1605205327372/work
+snowballstemmer==2.0.0
+SoundFile==0.10.3.post1
+soupsieve==2.0.1
+sox==1.4.1
+spacy @ file:///tmp/build/80754af9/spacy_1600554216329/work
+Sphinx==3.3.1
+sphinx-rtd-theme==0.5.0
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
+srsly==1.0.2
+statsmodels==0.12.1
+subword-nmt @ git+git://github.com/rsennrich/subword-nmt.git@48ba99e657591c329e0003f0c6e32e493fa959ef
+tabledata==1.1.3
+tabulate==0.8.7
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorboardX==2.5
+tensorflow-estimator==2.4.0
+tensorflow-gpu==2.4.1
+tensorrt @ file:///workspace/TensorRT-7.2.2.1/python/tensorrt-7.2.2.1-cp38-none-linux_x86_64.whl
+termcolor==1.1.0
+terminado==0.9.1
+testpath==0.4.4
+text-unidecode==1.3
+thinc @ file:///tmp/build/80754af9/thinc_1594251950817/work
+threadpoolctl==2.1.0
+toml==0.10.2
+torch==1.10.0
+torchtext==0.11.0
+torchvision==0.11.1
+tornado==6.1
+tqdm==4.53.0
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+typed-ast==1.4.1
+typepy==1.1.1
+typing-extensions==3.7.4.3
+uff @ file:///workspace/TensorRT-7.2.2.1/uff/uff-0.6.9-py2.py3-none-any.whl
+Unidecode==1.1.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+wasabi @ file:///tmp/build/80754af9/wasabi_1599244993840/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+wrapt==1.12.1
+yacs==0.1.8
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
