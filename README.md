@@ -123,6 +123,15 @@ The code is adapted from the following repositories:
 4. [PyTorch Metric Learning](https://kevinmusgrave.github.io/pytorch-metric-learning/losses/)
 
 
+## How to cite this repository
 
+If you used this repository in your work, please cite it as below:
+
+@software{face-recognition,
+  author = {Sasikanth, Kotti},
+  title = {{face-recognition}},
+  year = {2022},
+  url = {https://github.com/ksasi/face-recognition}
+}
 
 
