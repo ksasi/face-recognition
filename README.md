@@ -127,11 +127,13 @@ The code is adapted from the following repositories:
 
 If you used this repository in your work, please cite it as below:
 
+```
 @software{face-recognition,
   author = {Sasikanth, Kotti},
   title = {{face-recognition}},
   year = {2022},
   url = {https://github.com/ksasi/face-recognition}
 }
+```
 
 
